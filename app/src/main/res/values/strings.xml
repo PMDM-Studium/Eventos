@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eventos</string>
+    <string name="btn_Pulsame">Púlsame</string>
+    <string name="toast_MePulsaste">Púlsame</string>
+</resources>
